@@ -1,0 +1,13 @@
+.news > article > h2 {
+    font-size: 72px;
+}
+div {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+div.one {
+    width: 50px;
+    height: 50px;
+}
